@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">projetoAcessibilidade</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_login">Banking</string>
+    <string name="sub_title_login">Seja bem vindo ao Banking, seu novo banco digital !</string>
+    <string name="sub_title_request_login">Login</string>
+    <string name="senha_login">Senha</string>
+    <string name="email_login">Email</string>
+    <string name="button_open">Entrar</string>
+    <string name="create_account">criar uma conta</string>
+    <string name="title_cadastro">Cadastro</string>
+    <string name="sub_title_cadastro">Preencha seus dados para realizar o cadastro</string>
+    <string name="text_email">Email</string>
+    <string name="text_name">Nome</string>
+    <string name="text_documento">RG</string>
+    <string name="text_senha">Senha</string>
+    <string name="warning">Erro !</string>
+    <string name="register_failed">Senha Incorreta</string>
+    <string name="warning_simple">Tivemos um problema, tente novamente</string>
+    <string name="success">Sucesso !</string>
+    <string name="confirmation_success">Cadastro confirmado com sucesso!</string>
+    <string name="confirmation_error">Ocorreu um erro, tente novamente mais tarde</string>
+    <string name="value_card">111 111 111 1111</string>
+    <string name="name_card">Usuario Fulano</string>
+    <string name="data_card">15/24</string>
+</resources>
